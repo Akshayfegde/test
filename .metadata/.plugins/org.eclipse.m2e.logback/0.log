@@ -1,0 +1,208 @@
+2024-04-13 14:30:46,342 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-13 14:31:53,432 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606 [610])
+2024-04-13 14:31:53,477 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606
+2024-04-13 14:31:53,478 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\aether-connector-okhttp-0.17.8.jar
+2024-04-13 14:31:53,478 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\commons-lang3-3.8.1.jar
+2024-04-13 14:31:53,479 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\guice-4.2.2-no_aop.jar
+2024-04-13 14:31:53,479 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\jansi-2.4.0.jar
+2024-04-13 14:31:53,479 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-artifact-3.8.7.jar
+2024-04-13 14:31:53,480 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-builder-support-3.8.7.jar
+2024-04-13 14:31:53,480 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-compat-3.8.7.jar
+2024-04-13 14:31:53,480 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-core-3.8.7.jar
+2024-04-13 14:31:53,480 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-embedder-3.8.7.jar
+2024-04-13 14:31:53,480 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-3.8.7.jar
+2024-04-13 14:31:53,481 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-model-builder-3.8.7.jar
+2024-04-13 14:31:53,481 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-plugin-api-3.8.7.jar
+2024-04-13 14:31:53,481 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-repository-metadata-3.8.7.jar
+2024-04-13 14:31:53,481 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-api-1.6.3.jar
+2024-04-13 14:31:53,482 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-connector-basic-1.6.3.jar
+2024-04-13 14:31:53,482 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-impl-1.6.3.jar
+2024-04-13 14:31:53,482 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-provider-3.8.7.jar
+2024-04-13 14:31:53,482 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-spi-1.6.3.jar
+2024-04-13 14:31:53,482 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-transport-wagon-1.6.3.jar
+2024-04-13 14:31:53,483 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-resolver-util-1.6.3.jar
+2024-04-13 14:31:53,483 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-3.8.7.jar
+2024-04-13 14:31:53,483 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-settings-builder-3.8.7.jar
+2024-04-13 14:31:53,483 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\maven-shared-utils-3.3.4.jar
+2024-04-13 14:31:53,483 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okhttp-3.14.1.jar
+2024-04-13 14:31:53,483 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\okio-1.17.3.jar
+2024-04-13 14:31:53,483 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.inject-0.3.5.jar
+2024-04-13 14:31:53,483 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2024-04-13 14:31:53,483 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-build-api-0.0.7.jar
+2024-04-13 14:31:53,484 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-cipher-2.0.jar
+2024-04-13 14:31:53,484 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar
+2024-04-13 14:31:53,484 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-component-annotations-2.1.0.jar
+2024-04-13 14:31:53,486 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-interpolation-1.26.jar
+2024-04-13 14:31:53,486 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-sec-dispatcher-2.0.jar
+2024-04-13 14:31:53,486 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-utils-3.3.1.jar
+2024-04-13 14:31:53,486 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-file-3.5.3.jar
+2024-04-13 14:31:53,487 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\wagon-provider-api-3.5.3.jar
+2024-04-13 14:31:53,506 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_31.1.0.jre [11])
+2024-04-13 14:31:53,508 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\com.google.guava_31.1.0.jre.jar
+2024-04-13 14:31:53,508 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [924])
+2024-04-13 14:31:53,509 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2024-04-13 14:31:53,511 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [35])
+2024-04-13 14:31:53,511 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2024-04-13 14:31:53,512 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221203-1659 [33])
+2024-04-13 14:31:53,514 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\javax.annotation_1.3.5.v20221203-1659.jar
+2024-04-13 14:31:53,514 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.4.0.v20221112-0806 [67])
+2024-04-13 14:31:53,515 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\org.apache.commons.cli_1.4.0.v20221112-0806.jar
+2024-04-13 14:31:53,515 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.1 [13])
+2024-04-13 14:31:53,516 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\exam\.p2\pool\plugins\com.google.guava.failureaccess_1.0.1.jar
+2024-04-13 14:31:53,524 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\exam\AppData\Local\Temp\m2e-archetypeGenerator8375655553815649672":
+2024-04-13 14:31:53,528 [Worker-13: Launching mavenrun-968694eb-3feb-4fa8-b04e-86b96aea691c] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=webapp -DartifactId=webapp -Dversion=0.0.1-SNAPSHOT -Dpackage=webapp.webapp -DoutputDirectory=C:\Users\exam\Desktop\room407\question3 -Dstyle.color=always -U archetype:generate
+2024-04-13 14:32:19,977 [Worker-19: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\exam\Desktop\room407\question3\webapp\pom.xml
+2024-04-13 14:32:24,022 [Worker-19: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: webapp:webapp:0.0.1-SNAPSHOT @ C:\Users\exam\Desktop\room407\question3\webapp\pom.xml.
+2024-04-13 14:32:25,220 [Worker-19: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webapp/src/main/java
+2024-04-13 14:32:25,226 [Worker-19: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /webapp/src/test/java
+2024-04-13 14:32:25,362 [Worker-19: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2024-04-13 14:32:27,168 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:32:27,168 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 14:32:27,171 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:32:27,171 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 14:33:07,922 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:33:07,922 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 14:33:07,923 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:33:07,923 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 14:33:57,355 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:33:57,357 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 14:33:57,365 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:33:57,365 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 14:34:47,285 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:34:47,286 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 14:34:47,287 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:34:47,287 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 14:35:45,271 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:35:45,272 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 14:35:45,278 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:35:45,279 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 14:38:12,495 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-13 14:40:46,006 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:40:46,009 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 14:40:46,021 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:40:46,022 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 14:44:41,806 [Worker-15: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:44:41,807 [Worker-15: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 14:44:41,821 [Worker-15: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:44:41,822 [Worker-15: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 14:50:26,395 [Worker-33: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:50:26,396 [Worker-33: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 14:50:26,399 [Worker-33: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 14:50:26,399 [Worker-33: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:06:53,575 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:06:53,575 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:06:53,579 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:06:53,580 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:08:02,107 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-13 15:12:03,722 [Worker-17: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:12:03,724 [Worker-17: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:12:03,733 [Worker-17: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:12:03,734 [Worker-17: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:18:50,180 [Worker-34: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:18:50,181 [Worker-34: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:18:50,184 [Worker-34: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:18:50,185 [Worker-34: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:19:57,152 [Worker-36: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:19:57,152 [Worker-36: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:19:57,155 [Worker-36: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:19:57,155 [Worker-36: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:24:24,708 [Worker-36: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:24:24,709 [Worker-36: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:24:24,711 [Worker-36: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:24:24,712 [Worker-36: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:29:06,986 [Worker-41: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:29:06,986 [Worker-41: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:29:06,989 [Worker-41: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:29:06,989 [Worker-41: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:32:11,313 [Worker-43: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:32:11,314 [Worker-43: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:32:11,317 [Worker-43: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:32:11,317 [Worker-43: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:35:37,939 [Worker-43: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:35:37,939 [Worker-43: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:35:37,945 [Worker-43: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:35:37,946 [Worker-43: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:38:34,271 [Worker-58: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:38:34,273 [Worker-58: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:38:34,284 [Worker-58: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:38:34,285 [Worker-58: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:40:14,604 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:40:14,605 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:40:14,611 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:40:14,612 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:40:59,247 [Worker-59: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:40:59,247 [Worker-59: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:40:59,252 [Worker-59: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:40:59,253 [Worker-59: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:42:06,145 [Worker-60: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:42:06,146 [Worker-60: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:42:06,148 [Worker-60: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:42:06,149 [Worker-60: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:43:18,913 [Worker-61: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:43:18,914 [Worker-61: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:43:18,915 [Worker-61: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:43:18,916 [Worker-61: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:45:10,070 [Worker-61: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:45:10,071 [Worker-61: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:45:10,073 [Worker-61: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:45:10,073 [Worker-61: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:47:30,027 [Worker-64: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:47:30,029 [Worker-64: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:47:30,036 [Worker-64: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:47:30,037 [Worker-64: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 15:51:46,234 [Worker-71: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:51:46,235 [Worker-71: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 15:51:46,242 [Worker-71: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 15:51:46,243 [Worker-71: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:01:32,531 [Worker-80: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:01:32,531 [Worker-80: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:01:32,536 [Worker-80: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:01:32,537 [Worker-80: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:04:02,471 [Worker-85: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:04:02,473 [Worker-85: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:04:02,482 [Worker-85: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:04:02,482 [Worker-85: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:05:16,082 [Worker-86: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:05:16,082 [Worker-86: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:05:16,085 [Worker-86: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:05:16,085 [Worker-86: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:09:00,196 [Worker-79: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:09:00,197 [Worker-79: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:09:00,200 [Worker-79: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:09:00,201 [Worker-79: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:12:58,543 [Worker-79: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:12:58,543 [Worker-79: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:12:58,547 [Worker-79: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:12:58,547 [Worker-79: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:14:06,653 [Worker-93: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:14:06,653 [Worker-93: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:14:06,656 [Worker-93: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:14:06,656 [Worker-93: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:18:09,358 [Worker-93: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:18:09,359 [Worker-93: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:18:09,363 [Worker-93: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:18:09,364 [Worker-93: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:21:50,705 [Worker-100: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:21:50,705 [Worker-100: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:21:50,707 [Worker-100: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:21:50,707 [Worker-100: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:24:19,150 [Worker-102: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:24:19,150 [Worker-102: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:24:19,152 [Worker-102: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:24:19,152 [Worker-102: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:27:46,979 [Worker-107: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:27:46,979 [Worker-107: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:27:46,981 [Worker-107: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:27:46,981 [Worker-107: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:27:55,930 [Worker-110: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:27:55,931 [Worker-110: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:27:55,936 [Worker-110: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:27:55,937 [Worker-110: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 16:30:52,792 [Worker-108: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:30:52,793 [Worker-108: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 16:30:52,797 [Worker-108: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 16:30:52,797 [Worker-108: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources
+2024-04-13 17:08:32,502 [Worker-118: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 17:08:32,503 [Worker-118: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\main\resources
+2024-04-13 17:08:32,505 [Worker-118: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-13 17:08:32,506 [Worker-118: Launching WebApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\exam\Desktop\room407\question3\webapp\src\test\resources

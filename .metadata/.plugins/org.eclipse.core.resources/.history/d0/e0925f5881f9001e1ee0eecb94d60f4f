@@ -1,0 +1,23 @@
+package com.webapp;
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class WebApplication {
+
+	public static void main(String[] args) throws InterruptedException {
+		
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\exam\\Desktop\\room407\\question3\\chromedriver\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		// TODO Auto-generated method stubsendKeys
+        driver.get("https://www.amazon.in/?&tag=googhydrabk1-21&ref=pd_sl_7hz2t19t5c_e&adgrpid=15");
+
+	driver.findElement(By.id("twotabsearchtextbox")).sendKeys("shoes");
+	Thread.sleep(2000);
+	driver.findElement(By.className("a-aui_72554-c a-aui_a11y_1_699934-c a-aui_a11y_4_835613-c a-aui_a11y_6_837773-c a-aui_a11y_sr_678508-c a-aui_amzn_img_861115-c a-aui_amzn_img_gate_861116-c a-aui_killswitch_csa_logger_372963-c a-aui_pci_risk_banner_210084-c a-aui_preload_261698-c a-aui_rel_noreferrer_noopener_309527-c a-aui_template_weblab_cache_333406-c a-aui_tnr_v2_180836-c a-meter-animate")).click();
+	Thread.sleep(2000);
+	//driver.findElement(By.className("s-image"));
+	}
+
+}
